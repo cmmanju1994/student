@@ -1,3 +1,7 @@
 Name    : Anvita
 Surname : Doni
 Gender  : Female
+
+*----------
+Age    : 3years
+Weight : 10 kg
